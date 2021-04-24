@@ -1,4 +1,4 @@
-### Ideia geral
+# Ideia geral
 
     imagine que um ponteiro é um apartamento.
     Um ponteiro que aponta para um só valor é uma casa simples.
@@ -6,10 +6,9 @@
     
     maneira de acesso dado por v[x] ou *(v+x)
     
-    maneira de alocar um vetor em um ponteiro
-    
-    ```c
+    maneira de cirar um vetor dinamicamente
+     
     int* v = (int*) malloc(tamanho*sizeof(int));
-    ```
+   
     já que um está do lado do outro se usar free em um valor espécifico vai dar errado.
     
