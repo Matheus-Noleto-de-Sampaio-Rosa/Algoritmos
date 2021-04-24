@@ -4,7 +4,7 @@
     Um ponteiro que aponta para um só valor é uma casa simples.
     Um ponteiro que aponta para um vetor é um apartamento, seus valores estão alocados um após o outro
     
-    > maneira de acesso dado por v[x] ou *(v+x)
+    maneira de acesso dado por v[x] ou *(v+x)
     
     maneira de alocar um vetor em um ponteiro
     
